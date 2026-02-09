@@ -15,7 +15,7 @@
 
 <br><br>
 
-- 🎓 I'm an `AI Student` at [Delta University](https://delta.edu.eg/) - Expected Graduation 2026
+- 🎓 I'm an `AI Student` at [Delta University](https://new.deltauniv.edu.eg/en/home) - Expected Graduation 2026
 - 🏆 `ICP Global Finalist 2025` - Top 30 Teams Worldwide representing Egypt & Africa
 - 💡 Currently building **ATOSfit** - AI-Powered Fitness Coach using Deep Learning & Computer Vision
 - 🤖 Passionate about `Machine Learning`, `Deep Learning`, and `Computer Vision`
