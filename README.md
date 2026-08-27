@@ -15,11 +15,11 @@
 
 <br><br>
 
-- 🎓 I'm an `AI Student` at [Delta University](https://new.deltauniv.edu.eg/en/home) - Expected Graduation 2026
+- 🎓 I'm an `AI Enginner`  -  Graduated 2026 from [Delta University](https://new.deltauniv.edu.eg/en/home) 
 - 🏆 `ICP Global Finalist 2025` - Top 30 Teams Worldwide representing Egypt & Africa
 - 💡 Currently building **ATOSfit** - AI-Powered Fitness Coach using Deep Learning & Computer Vision
 - 🤖 Passionate about `Machine Learning`, `Deep Learning`, and `Computer Vision`
-- 💼 Freelance `AI & Data Science Engineer` at [Mostaql.com](https://mostaql.com)
+- 💼 Freelancer `AI & Data Science Engineer`
 - 🔬 Specialized in building ML/DL models, CV applications, and NLP solutions
 - 🌱 Always learning and exploring cutting-edge AI technologies
 - 📄 Check out [MY RESUME](https://drive.google.com/file/d/1BUweJJiCa_Ey0SwKGY5jAR9tlDl2LoXc/view?usp=drive_link)
