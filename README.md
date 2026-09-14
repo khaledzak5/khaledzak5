@@ -22,7 +22,7 @@
 - 💼 Freelancer `AI & Data Science Engineer`
 - 🔬 Specialized in building ML/DL models, CV applications, and NLP solutions
 - 🌱 Always learning and exploring cutting-edge AI technologies
-- 📄 Check out [MY RESUME](https://drive.google.com/file/d/1BUweJJiCa_Ey0SwKGY5jAR9tlDl2LoXc/view?usp=drive_link)
+- 📄 Check out [MY RESUME](https://drive.google.com/file/d/1g11D76OfZqpex72zvtD6K4Bcr1A9UWxZ/view?usp=drive_link)
 
 <br>
 
@@ -156,7 +156,7 @@
 - Implementing deep learning models for pose estimation
 - Building real-time computer vision systems
 
-**Freelance AI & Data Science Engineer** @ Mostaql.com | Jan 2025 - Present
+**Freelance AI & Data Science Engineer**  Jan 2025 - Present
 - Delivering production-ready ML/DL models
 - Building end-to-end data pipelines
 - Developing CV and NLP applications
@@ -165,7 +165,7 @@
 
 ## 📚 Education & Training
 
-**Bachelor of Artificial Intelligence** - Delta University (Expected 2026)
+**Bachelor of Artificial Intelligence** - Delta University
 
 **Intensive Training Programs:**
 - AI and Data Science - Digital Egypt Pioneers Initiative
